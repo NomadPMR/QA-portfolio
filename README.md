@@ -1,5 +1,6 @@
-[![Header](https://github.com/NomadPMR/QA-portfolio/blob/master/assets/123.jpg)]
-## Hi there 👋
+[![Header](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/123.jpg)]
+## Портфолио Тестировщик ПО
+## Приветствую, меня зовут Вячеслав! 👋
 
 
 
