@@ -1,4 +1,4 @@
-[![Header](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/123.jpg)]
+![Header](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/123.jpg)
 ## Портфолио Тестировщик ПО
 ## Приветствую, меня зовут Вячеслав! 👋
 
