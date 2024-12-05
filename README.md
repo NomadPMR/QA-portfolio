@@ -1,13 +1,8 @@
 ![Header](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/123.jpg)
 ## Портфолио Тестировщик ПО
-## Приветствую, меня зовут Вячеслав! 👋
+#### Приветствую, меня зовут Вячеслав! 👋
+В портфолио собраны проекты, выполненные во время обучения по специальности [Инженер по тестированию в Яндекс.Практикуме.](https://practicum.yandex.ru/qa-engineer-plus/)
 
-
-
-<!--
-**NomadPMR/nomadpmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
+- 📚 Все мои [курсы](https://rusau.net/courses)
+- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
