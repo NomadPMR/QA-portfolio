@@ -6,7 +6,7 @@
 Телефон: +7 (978) 051-67-60
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nomadpmr)
-<img src="https://img.shields.io/badge/odnoklassniki-EE8208?style=for-the-badge&logo=odnoklassniki&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/odnoklassniki-000000?style=for-the-badge&logo=odnoklassniki&logoColor=EE8208"/>
 #### Навыки и технологии.
 
 
