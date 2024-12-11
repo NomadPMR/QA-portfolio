@@ -5,7 +5,10 @@
 #### Контакты.
 Телефон: +7 (978) 051-67-60
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nomadpmr)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=EA4335)](https://mail.google.com/mail/u/1/#inbox))
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nomadpmr)
 [![odnoklassniki](https://img.shields.io/badge/odnoklassniki-000000?style=for-the-badge&logo=odnoklassniki&logoColor=EE8208)](https://ok.ru/profile/519966843070)
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-000000?style=for-the-badge&logo=vk&logoColor=0077FF)](https://ok.ru/profile/519966843070)
 
