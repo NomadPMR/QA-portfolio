@@ -5,8 +5,7 @@
 #### Контакты.
 Телефон: +7 (978) 051-67-60
 
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:krimmoirf@gmail.com)
-[![Яндекс](https://img.shields.io/badge/yandex-000000?style=for-the-badge&logo=Яндекс&logoColor=EA4335)](mailto:Nomad.PMR@yandex.ru)
+Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nomadpmr)
 [![odnoklassniki](https://img.shields.io/badge/odnoklassniki-000000?style=for-the-badge&logo=odnoklassniki&logoColor=EE8208)](https://ok.ru/profile/519966843070)
