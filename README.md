@@ -11,8 +11,9 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
 [![odnoklassniki](https://img.shields.io/badge/odnoklassniki-000000?style=for-the-badge&logo=odnoklassniki&logoColor=EE8208)](https://ok.ru/profile/519966843070)
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-000000?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id864701546)
 
-#### Навыки и технологии.
-
+#### Технологи и навыки.
+[![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
+[![YouTrack](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
 
 
 - 🔭 I’m currently working on ...
