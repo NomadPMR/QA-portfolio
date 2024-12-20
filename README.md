@@ -13,7 +13,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
 
 #### Технологи и навыки.
 [![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
-[![YouTrack](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
+[![YouTrack](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/youtrack_1.png)](https://app.qase.io/login)
 
 
 - 🔭 I’m currently working on ...
