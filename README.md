@@ -14,7 +14,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
 #### Технологи и навыки.
 [![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
 [![YouTrack](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/youtrack_1.png)](https://nomad.youtrack.cloud/projects)
-
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=F24E1E)](https://www.figma.com/files/1332608391777376692/recents-and-sharing?fuid=1360660426534413779)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
