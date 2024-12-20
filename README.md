@@ -1,8 +1,8 @@
 ![Header](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/123.jpg)
-## Портфолио Тестировщик ПО
+# Портфолио Тестировщик ПО
 #### Приветствую, меня зовут Вячеслав! Я начинающий тестировщик. 👋
 В этом репозитории вы сможете найти некоторые из моих проектов, выполненные во время обучения по специальности [Инженер по тестированию в Яндекс.Практикуме.](https://practicum.yandex.ru/qa-engineer-plus/) Я начинающий тестировщик.
-#### Контакты.
+### Контакты.
 Телефон: +7 (978) 051-67-60
 
 Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
@@ -10,6 +10,14 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nomadpmr)
 [![odnoklassniki](https://img.shields.io/badge/odnoklassniki-000000?style=for-the-badge&logo=odnoklassniki&logoColor=EE8208)](https://ok.ru/profile/519966843070)
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-000000?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id864701546)
+
+### 📁 Тестовая документация:
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+</div>
 
 #### Технологи и навыки.
 [![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
