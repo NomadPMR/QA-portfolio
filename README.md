@@ -39,15 +39,16 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="25" height="25"/>&nbsp
 </div>
 
 ### ✏️ Работа с кодом:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  [![pycharm](https://img.icons8.com/?size=100&id=117121&format=png&color=000000)]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="25" height="25"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="25" height="25"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="25" height="25"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="Pytest" width="25" height="25"/>&nbsp
 </div>
 ---
 
