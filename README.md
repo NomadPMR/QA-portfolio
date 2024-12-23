@@ -6,7 +6,6 @@
 В этом репозитории вы сможете найти некоторые из моих проектов, выполненные во время обучения по специальности [Инженер по тестированию в Яндекс.Практикуме.](https://practicum.yandex.ru/qa-engineer-plus/)
 - [Документы, подтверждающие квалификацию](https://github.com/NomadPMR/QA-portfolio/blob/main/docs/Сertificate%20Osipenko.pdf)
 - [Резюме](https://hh.ru/applicant/resumes/view?resume=b13bbe9aff09e7927c0039ed1f776d66786f54) 
-
 #### Контакты.
 Телефон: +7 (978) 051-67-60 <br>
 Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
@@ -51,14 +50,10 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 </div> 
 
 ---
+### Проекты, выполненные мной во время обучения.
 
 
 
-
-#### Технологи и навыки.
-[![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=Qase&logoColor=4F46DC)](https://app.qase.io/login)
-[![YouTrack](https://github.com/NomadPMR/QA-portfolio/blob/main/assets/youtrack_1.png)](https://nomad.youtrack.cloud/projects)
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=F24E1E)](https://www.figma.com/files/1332608391777376692/recents-and-sharing?fuid=1360660426534413779)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
