@@ -50,7 +50,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 </div> 
 
 ---
-### Проекты, выполненные мной в процессе обучения.
+### Некоторые проекты.
 
 
 
