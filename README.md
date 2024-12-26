@@ -8,7 +8,8 @@
 - [Резюме](https://hh.ru/applicant/resumes/view?resume=b13bbe9aff09e7927c0039ed1f776d66786f54) 
 #### Контакты.
 ☎️ Телефон: +7 (978) 051-67-60 <br>
-📧 Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
+<img src="https://github.com/user-attachments/assets/257b84cc-dd16-4c9b-bd86-adc032a9220d" title="Email" alt="Email" width="20" height="20"/> 
+Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nomadpmr)
 [![odnoklassniki](https://img.shields.io/badge/odnoklassniki-000000?style=for-the-badge&logo=odnoklassniki&logoColor=EE8208)](https://ok.ru/profile/519966843070)
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-000000?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id864701546)
