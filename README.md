@@ -23,9 +23,8 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="30" height="30"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="30" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3913/PNG/512/miro_logo_icon_248450.png" title="Miro" alt="Miro" width="30" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" title="draw.io" alt="draw.io" width="30" height="30"/>&nbsp
-
+  <img src="https://freedomlab.io/wp-content/uploads/2021/12/miro-squarelogo-1585684801003.png" title="Miro" alt="Miro" width="30" height="30"/>&nbsp
 </div> <br>
 
 <div>
