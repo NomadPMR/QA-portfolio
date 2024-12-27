@@ -63,7 +63,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 - практические навыки работы с Postman
 
 [Проектирование тестов](#test-design)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-анализ | Ассоциативные карты | Блок-схемы<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-анализ | Диаграмма связей [1](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link), [2](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link) | Блок-схемы [1](https://drive.google.com/file/d/1poytUNvHUimcVpnuABKJGI1lqbad0iMC/view?usp=drive_link), [2](https://docs.google.com/document/d/1MSn7bN0FC43J3VYjwmLZbaILEePB5oKyzl20KubZlHU/edit?usp=sharing) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-дизайн | Классы эквивалентности | Граничные значения<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестовая документация | Чек-листы | Тест-кейсы
 
