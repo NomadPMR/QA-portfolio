@@ -64,14 +64,14 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 - навык работы с devtools
 - практические навыки работы с Postman
 
-[Проектирование тестов](#test-design)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-анализ | Диаграмма связей [1](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link), [2](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link) | Блок-схемы [1](https://drive.google.com/file/d/1poytUNvHUimcVpnuABKJGI1lqbad0iMC/view?usp=drive_link), [2](https://docs.google.com/document/d/1MSn7bN0FC43J3VYjwmLZbaILEePB5oKyzl20KubZlHU/edit?usp=sharing) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-дизайн | Классы эквивалентности | Граничные значения<br>
+[Проектирование тестов]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-анализ | Диаграмма связей/состояний и переходов [1](https://drive.google.com/file/d/1z8z7kxS1GuRNy334RJhoGrrrGHG1MByg/view?usp=sharing), [2](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link), [3](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link) | Блок-схемы [1](https://drive.google.com/file/d/1poytUNvHUimcVpnuABKJGI1lqbad0iMC/view?usp=drive_link), [2](https://docs.google.com/document/d/1MSn7bN0FC43J3VYjwmLZbaILEePB5oKyzl20KubZlHU/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-дизайн | Классы эквивалентности [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing) | Граничные значения [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестовая документация | Чек-листы | Тест-кейсы
 
 [Тестирование веб-приложений](#web-testing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пользовательский интерфейс | Формы | DevTools | Charles<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Таблицы принятия решений | Парное тестирование | Баг-репорты
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Таблицы принятия решений [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing),  | Парное тестирование | Баг-репорты
 
 [Тестирование мобильных приложений](#mobile-testing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Матрица устройств | Эмуляторы | Android Studio
