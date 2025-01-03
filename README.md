@@ -64,22 +64,22 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 - навык работы с devtools
 - практические навыки работы с Postman
 
-[Проектирование тестов]<br>
+Проектирование тестов<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-анализ | Диаграмма связей/состояний и переходов [1](https://drive.google.com/file/d/1z8z7kxS1GuRNy334RJhoGrrrGHG1MByg/view?usp=sharing), [2](https://drive.google.com/file/d/1pPnXJVebpkmoB3N4oaUlyNGHfCjklFdT/view?usp=sharing), [3](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link), [4](https://drive.google.com/file/d/1ZyUJ0kVkhwabwEfRXna7H0BwQ-rC3dmV/view?usp=sharing) | Блок-схемы [1](https://drive.google.com/file/d/1poytUNvHUimcVpnuABKJGI1lqbad0iMC/view?usp=drive_link) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-дизайн | Классы эквивалентности [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1mmU-mt3QSpI8nwWsM_89XlouazsshEZiH9PoTxAstjE/edit?usp=sharing), [3](https://docs.google.com/spreadsheets/d/1mmU-mt3QSpI8nwWsM_89XlouazsshEZiH9PoTxAstjE/edit?usp=sharing) | Граничные значения [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1mmU-mt3QSpI8nwWsM_89XlouazsshEZiH9PoTxAstjE/edit?usp=sharing), [3](https://docs.google.com/spreadsheets/d/1mmU-mt3QSpI8nwWsM_89XlouazsshEZiH9PoTxAstjE/edit?usp=sharing)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестовая документация | Чек-листы [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing), []() | Тест-кейсы [](https://tms.devexplab.ru/projects/drivers-license/testruns/8), [](https://tms.devexplab.ru/projects/slava4/testcases), [](https://tms.devexplab.ru/projects/drivers-license/testruns/5), [](https://tms.devexplab.ru/projects/chilly-onions-switch/testcases), [](https://tms.devexplab.ru/projects/shy-cougars-care/testcases)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тестовая документация | Чек-листы [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?gid=635947971#gid=635947971), [2](https://docs.google.com/spreadsheets/d/1XBxbQHb96bYcp9C8N6FT_7oV-XS9cE3-tPd4DuG0_lQ/edit?gid=1626667734#gid=1626667734) | Тест-кейсы [](), [](https://tms.devexplab.ru/projects/drivers-license/testruns/8), [](https://tms.devexplab.ru/projects/slava4/testcases), [](https://tms.devexplab.ru/projects/drivers-license/testruns/5), [](https://tms.devexplab.ru/projects/chilly-onions-switch/testcases), [](https://tms.devexplab.ru/projects/shy-cougars-care/testcases)  
 
-[Тестирование веб-приложений](#web-testing)<br>
+Тестирование веб-приложений<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пользовательский интерфейс | Формы | DevTools | Charles [1](https://drive.google.com/file/d/1ay3cdOQXwfzTWyCwvFMb4keCtCvVd8Zn/view?usp=sharing), [2](https://drive.google.com/file/d/1iqisEoWZbKzZgbwh38Qukx-_GvB0fQVU/view?usp=sharing), [3](https://drive.google.com/file/d/1Hj1KaUZUTybEdz_7VDHJwzedxXq_zBSb/view?usp=sharing), [4](https://drive.google.com/file/d/1bdjdvc0-sZnzkCOFj-Ig_sV9HD9XFAIp/view?usp=sharing), [5](https://drive.google.com/file/d/1YJ5t_hq4yfsI1TUH45ijJhlUGhNF16Yy/view?usp=sharing), [6](https://drive.google.com/file/d/1ERjpVHaKKIXhlzjGZD8mz-1QwvUVY1Dg/view?usp=sharing), [7](https://drive.google.com/file/d/1DXNT4GeDwrTYHRBLZFduB43ssMZSPs6-/view?usp=sharing), [8](https://drive.google.com/file/d/11iY7XIm2NsR0JGTTyyiEh5bn58UPBGga/view?usp=sharing), [9](https://drive.google.com/file/d/1DyvnQGFQTuxvvzNE9YnutWyZODwC8R_o/view?usp=sharing), []() <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Таблицы принятия решений [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?usp=sharing),  | Попарное тестирование | Баг-репорты [1](https://nomad.youtrack.cloud/projects/f3f07a1a-b728-4344-b5ee-d4d6e2f9041b), [2](https://nomad.youtrack.cloud/projects/5dd5c314-1efd-4de1-af91-539fd36f8baa), [3](https://nomad.youtrack.cloud/projects/7a4df655-db15-41c1-bc4e-8fa491bff36e)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Таблицы принятия решений [1](https://docs.google.com/spreadsheets/d/1f4qf9j7325Bj4g8M66L7H1EHzh6FJcmfimICge-aV44/edit?gid=1869026872#gid=1869026872), [2](https://docs.google.com/spreadsheets/d/1XBxbQHb96bYcp9C8N6FT_7oV-XS9cE3-tPd4DuG0_lQ/edit?gid=436587480#gid=436587480) | Попарное тестирование [1](https://docs.google.com/spreadsheets/d/1XBxbQHb96bYcp9C8N6FT_7oV-XS9cE3-tPd4DuG0_lQ/edit?usp=sharing), [3](https://docs.google.com/spreadsheets/d/1XBxbQHb96bYcp9C8N6FT_7oV-XS9cE3-tPd4DuG0_lQ/edit?gid=269123900#gid=269123900) | Баг-репорты [1](https://nomad.youtrack.cloud/projects/f3f07a1a-b728-4344-b5ee-d4d6e2f9041b), [2](https://nomad.youtrack.cloud/projects/5dd5c314-1efd-4de1-af91-539fd36f8baa), [3](https://nomad.youtrack.cloud/projects/7a4df655-db15-41c1-bc4e-8fa491bff36e)
 
-[Тестирование мобильных приложений](#mobile-testing)<br>
+Тестирование мобильных приложений<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Матрица устройств | Эмуляторы | Android Studio
 
-[Тестирование API](#api-testing)<br>
+Тестирование API<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REST API | JSON | Postman
 
-[Тестирование баз данных](#data-bases)<br>
+Тестирование баз данных<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Консоль | SQL | PostgreSQL
 
 [Основы автоматизации тестирования](#test-automation)<br>
