@@ -94,3 +94,5 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 <br>
 <br>
 Дипломный проект [1](https://docs.google.com/document/d/1GgzOcjZyItLPtwCHKFPSpcKEOM_ZXz38sDIxtQ4Lsy4/edit?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1vGagG60xj5qQBnx62eiXQMt_rJSs4XgkKADgWZ6BwzU/edit?usp=sharing), [3](https://drive.google.com/file/d/18OniaY1SOp-cr9MBm5ifbRADRy7WKWaC/view?usp=sharing)
+
+---
