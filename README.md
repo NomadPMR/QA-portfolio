@@ -86,7 +86,9 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 
 Основы автоматизации тестирования <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python [1](https://drive.google.com/file/d/1uqLFGdLGQ-0YAgr28SBkC7fACyZ2H9Fj/view?usp=sharing), [2](https://drive.google.com/file/d/18Ev4tfL70cp8H1CviPk9h_bfrqZctv_B/view?usp=sharing), [3](https://drive.google.com/file/d/1eNkTolCJz7qQjvsDs8orwUe3YG77xqot/view?usp=sharing), [4](https://drive.google.com/file/d/1Q9-fv4s-cS0-7UAtPuk5acZzeNVBcudx/view?usp=sharing), [5](https://drive.google.com/file/d/1KJBjEdUOl4yiG3-XGgoFJOQFCXKtWtrd/view?usp=sharing) | VS Code | PyCharm
-
+<br>
+<br>
+<br>
 Командная работа при тестировании веб-приложений
 
 ### Некоторые проекты.
