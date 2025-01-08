@@ -89,7 +89,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 <br>
 <br>
 <br>
-Командная работа при тестировании реального веб-приложения [1](https://drive.google.com/file/d/1hnmX93ZPmzXhZ3GHOaQ8Cz3UdiP5P3sS/view?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1nEbWpXR6QqdEWqeohimD7l17u955wmF1/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true), [3](https://docs.google.com/document/d/1EhfRgBjaCJsOul1LKExDwVB041ZguvKW/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true)
+Командная работа при тестировании реального и работающего веб-приложения [1](https://drive.google.com/file/d/1hnmX93ZPmzXhZ3GHOaQ8Cz3UdiP5P3sS/view?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1nEbWpXR6QqdEWqeohimD7l17u955wmF1/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true), [3](https://docs.google.com/document/d/1EhfRgBjaCJsOul1LKExDwVB041ZguvKW/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true)
 <br>
 <br>
 <br>
