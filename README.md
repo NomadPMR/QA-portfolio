@@ -55,16 +55,16 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 ---
 
 ###  Выполнил работы по итогу обучения: 
-- провожу ручное тестирование, составляю баг-репорты, чек-листы и тест-кейсы
-- найденные баги заношу в YouTrack, работаю с документацией в Notion и в Google Docs
-- работаю с базами данных и умею составлять SQL-запросы
-- использую техники тест-дизайна и таблицы состояний и переходов
-- работаю со спецификациями и требованиями
+- проводил ручное тестирование, составлял баг-репорты, чек-листы и тест-кейсы
+- найденные баги заносил в YouTrack, работал с документацией в Notion и в Google Docs
+- работал с базами данных и умею составлять SQL-запросы
+- использовал техники тест-дизайна и таблицы состояний и переходов
+- работал со спецификациями и требованиями
 - провожу бэк-энд тестирование с помощью API
-- работаю в devtools
-- практические навыки работы с Postman
-- работа с системами контроля версий Git и GitHub
-- написание авто-тестов на Python
+- работал в devtools
+- имею практические навыки работы с Postman
+- работал с системами контроля версий Git и GitHub
+- написал авто-тесты на Python
 
 Проектирование тестов [1](https://docs.google.com/document/d/1MSn7bN0FC43J3VYjwmLZbaILEePB5oKyzl20KubZlHU/edit?usp=sharing), [2](https://docs.google.com/document/d/1vQYkmVxQ_O0vSV8FXWmGICqcGYa13NXxwaDdN5NCe1s/edit?usp=sharing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тест-анализ | Диаграмма связей/состояний и переходов [1](https://drive.google.com/file/d/1z8z7kxS1GuRNy334RJhoGrrrGHG1MByg/view?usp=sharing), [2](https://drive.google.com/file/d/1pPnXJVebpkmoB3N4oaUlyNGHfCjklFdT/view?usp=sharing), [3](https://drive.google.com/file/d/1IaiMe8e7U9LU0CYI-CkIjJTe8dX_IYM3/view?usp=drive_link), [4](https://drive.google.com/file/d/1ZyUJ0kVkhwabwEfRXna7H0BwQ-rC3dmV/view?usp=sharing) | Блок-схемы [1](https://drive.google.com/file/d/1poytUNvHUimcVpnuABKJGI1lqbad0iMC/view?usp=drive_link) <br>
@@ -89,7 +89,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 <br>
 <br>
 <br>
-Командная работа при тестировании реального и работающего веб-приложения [1](https://drive.google.com/file/d/1hnmX93ZPmzXhZ3GHOaQ8Cz3UdiP5P3sS/view?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1nEbWpXR6QqdEWqeohimD7l17u955wmF1/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true), [3](https://docs.google.com/document/d/1EhfRgBjaCJsOul1LKExDwVB041ZguvKW/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true)
+Командная работа при тестировании реального и работающего веб-приложения [1](https://drive.google.com/file/d/1hnmX93ZPmzXhZ3GHOaQ8Cz3UdiP5P3sS/view?usp=sharing), [2](https://docs.google.com/spreadsheets/d/1nEbWpXR6QqdEWqeohimD7l17u955wmF1/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true), [3](https://docs.google.com/document/d/1EhfRgBjaCJsOul1LKExDwVB041ZguvKW/edit?usp=sharing&ouid=116526264862053058854&rtpof=true&sd=true) (Выявил несколько багов и серых зон, предложил разработчикам несколько решений по улучшению UX, создал чек-листы, провел тесты.)
 <br>
 <br>
 <br>
