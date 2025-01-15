@@ -20,9 +20,9 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 <div>
   📁 Тестовая документация: &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="youtrack" width="30" height="30"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="30" height="30"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="30" height="30"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="test-it" width="30" height="30"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="Qase" alt="qase" width="30" height="30"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="figma" width="30" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" title="draw.io" alt="draw.io" width="30" height="30"/>&nbsp
   <img src="https://freedomlab.io/wp-content/uploads/2021/12/miro-squarelogo-1585684801003.png" title="Miro" alt="Miro" width="30" height="30"/>&nbsp
 </div> <br>
