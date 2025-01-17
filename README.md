@@ -47,7 +47,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 <div>
   ✏️ Работа с кодом: &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="30" height="30"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="25" height="30"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="vscode" width="25" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="Pytest" width="35" height="35"/>&nbsp
 </div> 
