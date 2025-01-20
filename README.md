@@ -42,6 +42,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
 <div>
   💾 Работа с данными: &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="mysql" width="30" height="30"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000" title="Notion" alt="Notion" width="30" height="30"/>&nbsp
 </div> <br>
 
 <div>
