@@ -50,6 +50,7 @@ Email: Nomad.PMR@yandex.ru, krimmoirf@gmail.com <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="30" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="vscode" width="25" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python" alt="Python" width="30" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="Pytest" width="35" height="35"/>&nbsp
 </div> 
 
